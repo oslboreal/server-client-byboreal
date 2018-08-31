@@ -1,0 +1,12 @@
+C:\Users\mvallejo\Desktop\Visual Studio Projects\WWDV\Server\Server\bin\Debug\Server.exe.config
+C:\Users\mvallejo\Desktop\Visual Studio Projects\WWDV\Server\Server\bin\Debug\Server.exe
+C:\Users\mvallejo\Desktop\Visual Studio Projects\WWDV\Server\Server\bin\Debug\Server.pdb
+C:\Users\mvallejo\Desktop\Visual Studio Projects\WWDV\Server\Server\bin\Debug\NS.Librerias.Winforms.dll
+C:\Users\mvallejo\Desktop\Visual Studio Projects\WWDV\Server\Server\bin\Debug\NS.Librerias.Winforms.pdb
+C:\Users\mvallejo\Desktop\Visual Studio Projects\WWDV\Server\Server\bin\Debug\NS.Librerias.Winforms.xml
+C:\Users\mvallejo\Desktop\Visual Studio Projects\WWDV\Server\Server\obj\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\mvallejo\Desktop\Visual Studio Projects\WWDV\Server\Server\obj\Debug\Server.FormPrincipal.resources
+C:\Users\mvallejo\Desktop\Visual Studio Projects\WWDV\Server\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\mvallejo\Desktop\Visual Studio Projects\WWDV\Server\Server\obj\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\mvallejo\Desktop\Visual Studio Projects\WWDV\Server\Server\obj\Debug\Server.exe
+C:\Users\mvallejo\Desktop\Visual Studio Projects\WWDV\Server\Server\obj\Debug\Server.pdb
